@@ -58,6 +58,10 @@ python test_parrallel.py --pretrained_dir ./runs/multiview_101616/ \
 
 Please check [TRAINING.md](TRAINING.md) for training instructions.
 
+## Acknowledgment
+
+This work is partially supported by Google Cloud Research Credits program.
+
 ## Citation
 
 If you find this repository helpful, please consider citing:
