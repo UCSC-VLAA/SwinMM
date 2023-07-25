@@ -1,1 +1,1 @@
-../../BTCV/utils/view_transforms.py
+../../WORD/utils/view_transforms.py

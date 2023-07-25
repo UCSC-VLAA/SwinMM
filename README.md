@@ -46,7 +46,7 @@ Please check [INSTALL.md](INSTALL.md) for installation instructions.
 Testing can be done using the following scripts. Please change `pretrained_dir` and `pretrained_model_name` according to the path of the checkpoint you would like to test, and change `data_dir` and `json_list` according to the datasets.
 
 ```bash
-cd BTCV
+cd WORD
 python test_parrallel.py --pretrained_dir ./runs/multiview_101616/ \
 	--pretrained_model_name model.pt \
 	--distributed \

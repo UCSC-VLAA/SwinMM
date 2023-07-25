@@ -28,6 +28,6 @@ bash run.sh
 - Prepare pretrained models: Copy the pretrained model to the `pretrained_models` directory in BTCV
 
 ```bash
-cd BTCV
+cd WORD
 bash run.sh
 ```
