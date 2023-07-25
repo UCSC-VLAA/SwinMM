@@ -61,7 +61,7 @@ Please check [TRAINING.md](TRAINING.md) for training instructions.
 ## Acknowledgment
 
 This work is partially supported by Google Cloud Research Credits program.
-This Repo is based on [SwinUNETR](https://github.com/Project-MONAI/research-contributions/tree/main/SwinUNETR)
+This Repo is based on [SwinUNETR](https://github.com/Project-MONAI/research-contributions/tree/main/SwinUNETR), [MONAI](https://monai.io/) and [bagua](https://github.com/BaguaSys/bagua).
 
 ## Citation
 
