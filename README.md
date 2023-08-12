@@ -5,11 +5,11 @@
 </p>
 ## Update
 
-08/13/2023:
+*08/13/2023:*
 
 News:
 
-SwinMM has been included in the MONAI's [research contribution](https://github.com/Project-MONAI/research-contributions).
+- SwinMM has been included in the MONAI's [research contribution](https://github.com/Project-MONAI/research-contributions).
 
 ## What is SwinMM?
 
